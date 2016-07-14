@@ -61,7 +61,7 @@ INFO2SF</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Friends List" Type="Friends List">
-		<Item Name="SimPPG2.lvlib" Type="Friended Library" URL="../../SimPPG2/SimPPG2.lvlib"/>
+		<Item Name="SimPPG2.lvlib" Type="Friended Library" URL="../../../CS_Core/CSSimulation/SimPPG2/SimPPG2.lvlib"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
